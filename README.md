@@ -23,6 +23,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle </h2>
+
 1.) Go to http://localhost/osTicket/ and as one of your users (customers) create a ticket. The details are up to you but in my case, I created a general inquiry about equipment and a software issue concerning Adobe.
 
 
@@ -36,6 +37,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 4.) Go to the ticket and "work" the issue at hand. 
 
 5.) Once resolved, set the ticket's status as resolved at the bottom. 
+
+![Screen Shot 2024-02-29 at 6 42 42 PM](https://github.com/Chillsoda/ticket-lifecycle/assets/161760771/12e709a3-a1b8-4070-bc3c-ff5f6560427e) 
+
+
+6.) Repeat the process as needed. 
+
+This concludes the demonstration of how to install osTicket on an Azure virtual machine and how to utilize it.
+
 
 
 
